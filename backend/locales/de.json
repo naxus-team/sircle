@@ -1,0 +1,181 @@
+{
+  "app": [
+    {
+      "name": "Sircle",
+      "company": "Sircle",
+      "inc": "GmbH"
+    }
+  ],
+  "welcome": "Willkommen",
+  "greeting": "Hallo, {{name}}!",
+  "classes": [
+    {
+      "classes": "Klassen"
+    }
+  ],
+  "peoples": [
+    {
+      "peoples": "Personen",
+      "teachers": "Lehrer",
+      "classmates": "Mitschüler"
+    }
+  ],
+  "search": [
+    {
+      "input": [
+        {
+          "search": "Suche",
+          "search_query": "Suche @{{n}}"
+        }
+      ]
+    }
+  ],
+  "main": [
+    {
+      "line1": "Ein neuer Anfang!",
+      "line2": "Finde einen Lehrer und starte heute deine Lernreise.",
+      "line3": "Einer Klasse beitreten"
+    }
+  ],
+  "user": [
+    {
+      "role": [
+        {
+          "teacher": "Lehrer",
+          "student": "Schüler"
+        }
+      ],
+      "spec": [
+        {
+          "arabiclang": "Arabische Sprache"
+        }
+      ]
+    }
+  ],
+  "login": [
+    {
+      "login": "Anmelden",
+      "email": "E-Mail",
+      "mobile": "Telefon",
+      "password": "Passwort",
+      "forget": "Passwort vergessen?",
+      "a_account": "Noch kein Konto?",
+      "b_account": "Neues Konto erstellen",
+      "input": [
+        {
+          "email": "Gib deine E-Mail-Adresse ein",
+          "password": "Gib dein Passwort ein"
+        }
+      ]
+    }
+  ],
+  "autoreply": [
+    {
+      "welcome": "Willkommen",
+      "act1": "Vielen Dank für dein Interesse."
+    }
+  ],
+  "langs": [
+    {
+      "en": "Englisch",
+      "ar": "Arabisch"
+    }
+  ],
+  "dms": [
+    {
+      "dms": "Direktnachrichten",
+      "more": "Mehr",
+      "create_call": "Anruf starten",
+      "search_message": "Nachrichten durchsuchen",
+      "send": "Senden"
+    }
+  ],
+  "controls": [
+    {
+      "lightmode": "Hellmodus",
+      "darkmode": "Dunkelmodus",
+      "on_sound": "Ton einschalten",
+      "on_mic": "Mikrofon einschalten",
+      "off_sound": "Ton ausschalten",
+      "off_mic": "Mikrofon ausschalten"
+    }
+  ],
+  "status": [
+    {
+      "online_male": "Online",
+      "online_female": "Online",
+      "online": "Online",
+      "busy": "Beschäftigt",
+      "away": "Abwesend",
+      "offline": "Offline"
+    }
+  ],
+  "discussion": [
+    {
+      "add_comment": "Kommentar hinzufügen"
+    }
+  ],
+  "date": [
+    {
+      "since": "seit",
+      "yesterday": "Gestern",
+      "day": "Heute",
+      "days": "Tage",
+      "hour": "Stunde",
+      "month": "Monat"
+    }
+  ],
+  "circle": [
+    {
+      "mg1": "hat einen Kreis mit dem Titel erstellt.",
+      "mg2": "ist dem Kreis beigetreten."
+    }
+  ],
+  "common": [
+    {
+      "default": "Standard",
+      "script": "Skript",
+      "peoples": "Personen",
+      "mention_to": "erwähnte",
+      "options": "Optionen",
+      "voice_chat": "Sprachchat",
+      "voice": "Stimme",
+      "upload": "Datei hochladen",
+      "general": "Allgemein",
+      "emojis": "Emojis",
+      "mention": "Erwähnung",
+      "files": "Dateien",
+      "join": "Beitreten",
+      "discussion": "Diskussionen",
+      "closed": "Geschlossen",
+      "members": "Mitglieder",
+      "items": "Elemente",
+      "leaving": "Verlassen",
+      "message": "Nachricht",
+      "you_male": "Du",
+      "you_female": "Du",
+      "you_unified": "Du",
+      "current_class": "Aktuelle Klasse",
+      "or": "oder",
+      "account": "Konto",
+      "logout": "Abmelden",
+      "send_feedback": "Feedback senden",
+      "help": "Hilfe",
+      "settings": "Einstellungen",
+      "key_shortcuts": "Tastenkombinationen",
+      "lang": "Sprache",
+      "status": "Status",
+      "view_profile": "Profil anzeigen",
+      "full_activity": "Volle Aktivität",
+      "activity": "Aktivitäten",
+      "close": "Schließen",
+      "all": "Alle",
+      "unreads": "Ungelesen",
+      "mentions": "Erwähnungen",
+      "dms": "Direktnachrichten",
+      "home": "Startseite",
+      "search": "Suche"
+    }
+  ],
+  "continue": "Weiter"
+}

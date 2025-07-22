@@ -1,0 +1,180 @@
+{
+  "app": [
+    {
+      "name": "Sircle",
+      "company": "Sircle",
+      "inc": "Inc."
+    }
+  ],
+  "welcome": "Welcome",
+  "greeting": "Hello, {{name}}!",
+  "classes": [
+    {
+      "classes": "Classes"
+    }
+  ],
+  "peoples": [
+    {
+      "peoples": "Peoples",
+      "teachers": "Teachers",
+      "classmates": "Classmates"
+    }
+  ],
+  "search": [
+    {
+      "input": [
+        {
+          "search": "Search",
+          "search_query": "Search @{{n}}"
+        }
+      ]
+    }
+  ],
+  "main": [
+    {
+      "line1": "A New Beginning!",
+      "line2": "Find a teacher and start your learning journey today.",
+      "line3": "Find a Class"
+    }
+  ],
+  "user": [
+    {
+      "role": [
+        {
+          "teacher": "Teacher",
+          "student": "Student"
+        }
+      ],
+      "spec": [
+        {
+          "arabiclang": "Arabic Language"
+        }
+      ]
+    }
+  ],
+  "login": [
+    {
+      "login": "Log in",
+      "email": "Email",
+      "mobile": "Mobile",
+      "password": "Password",
+      "forget": "Forgot your password?",
+      "a_account": "Need an account?",
+      "b_account": "Create One",
+      "input": [
+        {
+          "email": "Enter your email",
+          "password": "Enter your password"
+        }
+      ]
+    }
+  ],
+  "autoreply": [
+    {
+      "welcome": "Welcome",
+      "act1": "and thank you for sharing your interest with us."
+    }
+  ],
+  "langs": [
+    {
+      "en": "English",
+      "ar": "Arabic"
+    }
+  ],
+  "dms": [
+    {
+      "dms": "Direct Messages",
+      "more": "More",
+      "create_call": "Create a call",
+      "search_message": "Search messages",
+      "send": "Send"
+    }
+  ],
+  "controls": [
+    {
+      "lightmode": "Light Mode",
+      "darkmode": "Dark Mode",
+      "on_sound": "Turn on sound",
+      "on_mic": "Turn on microphone",
+      "off_sound": "Turn off sound",
+      "off_mic": "Turn off microphone"
+    }
+  ],
+  "status": [
+    {
+      "online_male": "Online",
+      "online": "Online",
+      "busy": "Busy",
+      "away": "Away",
+      "offline": "Offline"
+    }
+  ],
+  "discussion": [
+    {
+      "add_comment": "Add comment"
+    }
+  ],
+  "date": [
+    {
+      "since": "since",
+      "yesterday": "yesterday",
+      "day": "day",
+      "days": "days",
+      "hour": "hour",
+      "month": "month"
+    }
+  ],
+  "circle": [
+    {
+      "mg1": "created a the circle.",
+      "mg2": "joined the circle."
+    }
+  ],
+  "common": [
+    {
+      "default": "Default",
+      "script": "Script",
+      "peoples": "Members",
+      "mention_to": "Mention to",
+      "options": "Options",
+      "voice_chat": "Voice Chat",
+      "voice": "Voice",
+      "upload": "Upload",
+      "general": "General",
+      "emojis": "Emojis",
+      "mention": "Mention",
+      "files": "Files",
+      "join": "Join",
+      "discussion": "Discussion",
+      "closed": "Closed",
+      "members": "Members",
+      "items": "Items",
+      "leaving": "Leaving",
+      "message": "Message",
+      "you_male": "You",
+      "you_female": "You",
+      "you_unified": "You",
+      "current_class": "Current Class",
+      "or": "Or",
+      "account": "Account",
+      "logout": "Logout",
+      "send_feedback": "Send Feedback",
+      "help": "Help",
+      "settings": "Settings",
+      "key_shortcuts": "Keyboard Shortcuts",
+      "lang": "Language",
+      "status": "Status",
+      "view_profile": "View Profile",
+      "full_activity": "Full Activity",
+      "activity": "Activity",
+      "close": "Close",
+      "all": "All",
+      "unreads": "Unreads",
+      "mentions": "Mentions",
+      "dms": "Direct Messages",
+      "home": "Home",
+      "search": "Search"
+    }
+  ],
+  "continue": "Continue"
+}
