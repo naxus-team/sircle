@@ -1,0 +1,182 @@
+{
+  "app": [
+    {
+      "name": "Sircle",
+      "company": "Sircle",
+      "inc": "المحدوده"
+    }
+  ],
+  "welcome": "مرحباً",
+  "greeting": "مرحبًا، {{name}}!",
+  "classes": [
+    {
+      "classes": "صُفوف"
+    }
+  ],
+  "peoples": [
+    {
+      "peoples": "أشخاص",
+      "teachers": "مُعلمين",
+      "classmates": "زُملاء"
+    }
+  ],
+  "search": [
+    {
+      "input": [
+        {
+          "search": "بحث",
+          "search_query": "بحث @{{n}}"
+        }
+      ]
+    }
+  ],
+  "main": [
+    {
+      "line1": "انطلاقة جديدة!",
+      "line2": "ابحث عن معلم وابدأ رحلتك التعليمية اليوم.",
+      "line3": "الإنضمام لفصل"
+    }
+  ],
+  "user": [
+    {
+      "role": [
+        {
+          "teacher": "مُعلم",
+          "student": "طالب"
+        }
+      ],
+      "spec": [
+        {
+          "arabiclang": "اللغة العربية"
+        }
+      ]
+    }
+  ],
+  "login": [
+    {
+      "login": "تسجيل الدخول",
+      "email": "البريد الإلكتروني",
+      "mobile": "الهاتف",
+      "password": "كلمة المرور",
+      "forget": "نسيت كلمة المرور؟",
+      "a_account": "لا تملك حساب؟",
+      "b_account": "إنشاء حساب جديد",
+      "input": [
+        {
+          "email": "ادخل بريدك الإلكتروني",
+          "password": "ادخل كلمة المرور"
+        }
+      ]
+    }
+  ],
+  "autoreply": [
+    {
+      "welcome": "مرحباً",
+      "act1": "وشكرا لك على مشاركتنا اهتمامك معنا."
+    }
+  ],
+  "langs": [
+    {
+      "en": "الإنجليزية",
+      "ar": "العربية"
+    }
+  ],
+  "dms": [
+    {
+      "dms": "رسائل مباشرة",
+      "more": "المزيد",
+      "create_call": "إنشاء مكالمة",
+      "search_message": "البحث في الرسائل",
+      "send": "إرسال"
+    }
+  ],
+  "controls": [
+    {
+      "lightmode": "فاتح",
+      "darkmode": "داكن",
+      "on_sound": "تشغيل الصوت",
+      "on_mic": "تشغيل الميكروفون",
+      "off_sound": "إيقاف الصوت",
+      "off_mic": "إيقاف الميكروفون"
+    }
+  ],
+  "status": [
+    {
+      "online_male": "مُتصل",
+      "online_female": "مُتصلة",
+      "online": "مُتصل",
+      "busy": "مشغول",
+      "away": "بعيد",
+      "offline": "غير متصل"
+    }
+  ],
+  "discussion": [
+    {
+      "add_comment": "إضافة تعليق"
+    }
+  ],
+  "date": [
+    {
+      "since": "منذ",
+      "yesterday": "أمس",
+      "day": "اليوم",
+      "days": "يوماً",
+      "hour": "ساعة",
+      "month": "شهر"
+    }
+  ],
+  "circle": [
+    {
+      "mg1": "قام بإنشاء الدائرة",
+      "mg2": "انضم إلى الدائرة"
+    }
+  ],
+  "common": [
+    {
+      "default": "الإفتراضي",
+
+      "script": "نص برمجي",
+      "peoples": "أشخاص",
+      "mention_to": "أشار الى",
+      "options": "خيارات",
+      "voice_chat": "دردشة صوتية",
+      "voice": "صوت",
+      "upload": "رفع ملف",
+      "general": "عام",
+      "emojis": "رموز تعبيرية",
+      "mention": "إشارة",
+      "files": "ملفات",
+      "join": "انضمام",
+      "discussion": "مناقشات",
+      "closed": "مُغلق",
+      "members": "أعضاء",
+      "items": "عناصر",
+      "leaving": "المغادرة",
+      "message": "رسالة",
+      "you_male": "أنت",
+      "you_female": "أنتي",
+      "you_unified": "أنت",
+      "current_class": "الفصل الحالي",
+      "or": "أو",
+      "account": "الحساب",
+      "logout": "تسجيل الخروج",
+      "send_feedback": "إرسال ملاحظات",
+      "help": "المساعدة",
+      "settings": "الإعدادات",
+      "key_shortcuts": "اختصارات لوحة المفاتيح",
+      "lang": "اللغة",
+      "status": "الحالة",
+      "view_profile": "عرض الملف الشخصي",
+      "full_activity": "نشاط كامل",
+      "activity": "الأنشطة",
+      "close": "إغلاق",
+      "all": "الكل",
+      "unreads": "غير مقروء",
+      "mentions": "ذُكرت فيه",
+      "dms": "الرسائل المباشرة",
+      "home": "الرئيسية",
+      "search": "البحث"
+    }
+  ],
+  "continue": "متابعة"
+}
