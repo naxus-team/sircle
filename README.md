@@ -1,4 +1,4 @@
-![logo(Sircle)](./sircle_logo.png)
+![logo(Sircle)](./sircle.png)
 
 # Sircle
 Sircle is a collaborative learning platform for schools, teachers, and study groups. It offers real-time communication, dedicated channels for subjects or languages, and tools for sharing resources, making education interactive, organized, and engaging.
